@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: <phn0me/src=x onerror=alert()>
+title: Phn0me
 email: phn0me@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   Former sysadmin gone purple.
@@ -59,7 +59,7 @@ plugins:
 author:
   name: "phn0me"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Sysadmin | BugBounty | Pentester | Game Developer"
+  bio: "I try to save a life a day. Usually it’s my own."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -79,9 +79,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
