@@ -1,7 +1,5 @@
 ---
 title: "Active Directory - Password Policy"
-tags:
- -sysadmin
 ---
 
 ### Did you know...
@@ -58,7 +56,6 @@ Assuming a threat actor has gained internal access to hashed passwords for offli
 
 But, of course, users never reuse their passwords, right?
 
-Adding two-factor authentication (2FA) won’t stop a determined attacker, but it can slow them down.
 
 ### What can we do?
 To improve password hygiene and assess vulnerabilities, you can perform your own password audits.
