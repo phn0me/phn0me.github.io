@@ -1,8 +1,7 @@
 ---
 permalink: /about/
-title: "About"
+title: "What's all this About?"
 ---
-# What's all this about?
 
 It’s about me, **Simon** (or ```phn0me``` – which is Simon typed out on T9 and my first WoW character was a gnome).
 
