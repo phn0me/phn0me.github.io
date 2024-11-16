@@ -7,9 +7,7 @@ title: "About"
 
 It's about me, __Simon__ or ```phn0me``` (which is Simon typed out on T9 with an additional e).
 
-# About Me
-
-Hi there! I’m an IT professional with over 10 years of experience, having had the pleasure of working alongside many talented and brilliant individuals throughout my career. My journey in technology has been diverse, with roles spanning across IT support, systems administration, IT consulting, and more recently, IT security and penetration testing.
+I’m an IT professional with over 10 years of experience, having had the pleasure of working alongside many talented and brilliant individuals throughout my career. My journey in technology has been diverse, with roles spanning across IT support, systems administration, IT consulting, and more recently, IT security and penetration testing.
 
 ### My Career Path
 
@@ -19,17 +17,17 @@ Hi there! I’m an IT professional with over 10 years of experience, having had 
 
 - **Head of IT Support**: In this leadership role, I managed a team of IT professionals, ensuring timely support, improving workflows, and keeping systems secure and operational for the business.
 
-- **IT Consultant for ERP Developer**: As an IT consultant for an ERP developer, I worked closely with clients to integrate and customize ERP systems, troubleshoot issues, and streamline business processes.
+- **IT Consultant**: As an IT consultant for an ERP systems developer, I worked closely with clients to integrate and customize their systems, troubleshoot issues, and streamline business processes.
 
 - **Programming & Scripting**: Throughout my career, I’ve also dabbled in programming and scripting, automating repetitive tasks, developing internal tools, and improving overall productivity.
 
 ### Pivot to IT Security
 
-About a year ago, I decided to pivot into **IT security**, on the **Read/Blue teaming (purple)** side of things, **bug bounty hunting**. This shift has been an exciting challenge, allowing me to use my deep technical knowledge to identify vulnerabilities and help organizations secure their systems from cyber threats.
+About a year ago, I decided to pivot into **IT security**, on the **Read/Blue teaming (purple)** side of things and **bug bounty hunting**. This shift has been an exciting challenge, allowing me to use my deep technical knowledge to identify vulnerabilities and help organizations secure their systems from cyber threats.
 
 ### Outside of Work
 
-When I’m not deep into the world of IT, I enjoy spending time with my children—keeping up with them is always an adventure! In addition, I’m working on a **2D game engine** in **Rust** in my spare time. It’s a fun side project that allows me to combine my interest for programming with my passion for game development.
+When I’m not deep into the world of IT, I enjoy spending time with my children or hacking away at my **2D game engine** in **Rust**.
 
 ---
 
