@@ -7,26 +7,33 @@ title: "About"
 
 It's about me, __Simon__ or ```phn0me``` (which is Simon typed out on T9 with an additional e).
 
-I'm a IT professional with over 10 years of experience in the industry. Throughout my career, I've had the opportunity to work with some incredibly talented people and grow my skill set across a variety of domains. From systems administration to IT consulting, I've always been driven by the challenge of solving complex problems and improving systems.
+# About Me
 
-### My Career Journey
+Hi there! I’m an IT professional with over 10 years of experience, having had the pleasure of working alongside many talented and brilliant individuals throughout my career. My journey in technology has been diverse, with roles spanning across IT support, systems administration, IT consulting, and more recently, IT security and penetration testing.
 
-- **Systems Administrator**: I started my career managing and maintaining IT infrastructure, ensuring systems ran smoothly and efficiently.
-- **Head of IT Support**: As the head of IT support, I led a team dedicated to troubleshooting, resolving technical issues, and providing exceptional service across the organization.
-- **IT Consultant for ERP Developer**: I worked as an IT consultant for an ERP developer, where I gained experience in system integration, troubleshooting, and customizing solutions for clients.
-- **Programming and Scripting**: Along the way, I picked up programming and scripting skills, automating tasks and enhancing workflows.
+### My Career Path
 
-### Transition to IT Security
+- **Support Engineer**: I started my career as a support engineer at a large Swedish retailer, where I gained valuable experience troubleshooting technical issues and helping users resolve problems quickly and efficiently.
 
-About a year ago, I pivoted into the world of **IT security**, focusing on **penetration testing** and **bug bounty hunting**. This transition has been incredibly exciting, as it allows me to use my problem-solving skills in new and creative ways while working to keep systems and data safe from emerging threats.
+- **Systems Administrator**: Moving into a systems administration role, I took on the responsibility of maintaining and optimizing IT infrastructure, with some network infrastructure work sprinkled in to keep things running smoothly.
+
+- **Head of IT Support**: In this leadership role, I managed a team of IT professionals, ensuring timely support, improving workflows, and keeping systems secure and operational for the business.
+
+- **IT Consultant for ERP Developer**: As an IT consultant for an ERP developer, I worked closely with clients to integrate and customize ERP systems, troubleshoot issues, and streamline business processes.
+
+- **Programming & Scripting**: Throughout my career, I’ve also dabbled in programming and scripting, automating repetitive tasks, developing internal tools, and improving overall productivity.
+
+### Pivot to IT Security
+
+About a year ago, I decided to pivot into **IT security**, on the **Read/Blue teaming (purple)** side of things, **bug bounty hunting**. This shift has been an exciting challenge, allowing me to use my deep technical knowledge to identify vulnerabilities and help organizations secure their systems from cyber threats.
 
 ### Outside of Work
 
-When I'm not immersed in technology, I enjoy spending quality time with my children, which keeps me grounded and inspired. I'm also passionate about game development and am currently working on a **2D game engine** in **Rust** during my spare time. It's a fun and challenging project that allows me to explore new concepts and improve my coding skills.
+When I’m not deep into the world of IT, I enjoy spending time with my children—keeping up with them is always an adventure! In addition, I’m working on a **2D game engine** in **Rust** in my spare time. It’s a fun side project that allows me to combine my interest for programming with my passion for game development.
 
 ---
 
-Feel free to reach out if you’d like to connect or collaborate on any projects!
+Feel free to connect with me if you’d like to chat about technology, security, game development, or anything in between!
 
 ---
 Yes, this is a ChatGPT thing...
