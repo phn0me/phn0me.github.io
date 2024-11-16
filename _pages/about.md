@@ -4,7 +4,7 @@ title: "About"
 ---
 # What's all this about?
 
-It’s about me, **Simon** (or ```phn0me``` – which is Simon typed out on T9 with an extra ‘e’ for fun).
+It’s about me, **Simon** (or ```phn0me``` – which is Simon typed out on T9 and my first WoW character was a gnome).
 
 I’m an IT professional with over 10 years of experience in the tech industry. Along the way, I've had the privilege of working with some incredibly smart and talented people. My career has been diverse, spanning across IT support, systems administration, IT consulting, and more recently, IT security and penetration testing.
 
