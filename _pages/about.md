@@ -1,3 +1,7 @@
+---
+permalink: /about/
+title: "About"
+---
 # What's all this about?
 
 It’s about me, **Simon** (or ```phn0me``` – which is Simon typed out on T9 with an extra ‘e’ for fun).
