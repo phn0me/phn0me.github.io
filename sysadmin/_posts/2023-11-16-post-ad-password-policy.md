@@ -66,5 +66,5 @@ To improve password hygiene and assess vulnerabilities, you can perform your own
     * By analyzing cracked passwords, you can identify useful patterns—such as whether users include their organization's name or the local sports team in their passwords.
 * ___Specops___ offers a free, read-only [audit tool](https://specopssoft.com/product/specops-password-auditor/) to check for weak, reused, or compromised passwords.
 * ___Educate___ users on proper password hygiene, including the importance of not reusing passwords. Help them help us by clarifying IT policies and offering guidance.
-* ___Defense in Depth___: Layers upon layers of security. Implement 2FA, use password managers, and perform regular audits.
+* ___Defense in Depth___: Layers upon layers of security. Implement 2FA, use password managers, perform regular audits and so on.
 * ___Be Patient and Supportive___: Some users may not have the same technical expertise, but scolding them won't help. A patient and supportive approach fosters better results.
