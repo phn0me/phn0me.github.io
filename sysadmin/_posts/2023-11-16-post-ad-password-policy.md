@@ -9,7 +9,7 @@ That Active Directory's [password policy](https://learn.microsoft.com/en-us/prev
 > - Uppercase letters of European languages (A through Z, including diacritic marks, Greek, and Cyrillic characters)
 > - Lowercase letters of European languages (a through z, sharp-s, including diacritic marks, Greek, and Cyrillic characters)
 > - Base 10 digits (0 through 9)
-> - Non-alphanumeric characters: ~!@#$%^&*_-+=`|(){}[]:;"'<>,.?/
+> - Non-alphanumeric characters: !@#$%^&*_-+=\|(){}[]:;"'<>,.?/~
 > - Any Unicode character categorized as alphabetic but not uppercase or lowercase, including characters from Asian languages.
 
 
